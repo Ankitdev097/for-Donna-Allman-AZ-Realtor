@@ -1,0 +1,6 @@
+{
+  "name": "Donna Allman Dream Homes",
+  "description": "Custom AI Receptionist Workflow for Donna Allman AZ Realtor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
